@@ -9,7 +9,7 @@ is called vdisk and is located in the disk folder along with some files for test
 I'm keeping this around so whenever I need to brush up on C or remember how file systems
 work at a very basic level I can make small improvements to this.
 
-To run the test just run the shellScript.sh
+To run the tests just run the shellScript.sh
 
 TO-DO
 - Fix the way debug print statements work
